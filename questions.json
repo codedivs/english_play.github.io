@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Which word is wrongly spelled?",
+    "options": ["Recieve", "Believe", "Achieve", "Perceive"],
+    "answer": 0
+  },
+  {
+    "question": "A synonym of 'cup' is:",
+    "options": ["Glass", "Mug", "Plate", "Bowl"],
+    "answer": 1
+  },
+  {
+    "question": "Complete: As white as _____",
+    "options": ["Coal", "Snow", "Night", "Ink"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Accomodation", "Acommodation", "Accommodation", "Acommadation"],
+    "answer": 2
+  },
+  {
+    "question": "'Break a leg' means:",
+    "options": ["Get injured", "Good luck", "Be careful", "Run fast"],
+    "answer": 1
+  },
+  {
+    "question": "The past tense of 'go' is:",
+    "options": ["Goed", "Went", "Gone", "Going"],
+    "answer": 1
+  },
+  {
+    "question": "Which is an antonym of 'ancient'?",
+    "options": ["Old", "Modern", "Historic", "Traditional"],
+    "answer": 1
+  },
+  {
+    "question": "'Piece of cake' means:",
+    "options": ["Very difficult", "Very easy", "Delicious", "Small portion"],
+    "answer": 1
+  },
+  {
+    "question": "Which word is misspelled?",
+    "options": ["Necessary", "Embarrass", "Occassion", "Separate"],
+    "answer": 2
+  },
+  {
+    "question": "He is afraid _____ dogs.",
+    "options": ["from", "with", "of", "at"],
+    "answer": 2
+  },
+  {
+    "question": "A place where books are kept is called:",
+    "options": ["Museum", "Library", "Zoo", "Bank"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Their going tomorrow", "They're going tomorrow", "There going tomorrow", "Thier going tomorrow"],
+    "answer": 1
+  },
+  {
+    "question": "'Raining cats and dogs' means:",
+    "options": ["Animals falling", "Raining lightly", "Raining heavily", "Storm coming"],
+    "answer": 2
+  },
+  {
+    "question": "The plural of 'child' is:",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "answer": 2
+  },
+  {
+    "question": "She _____ to school every day.",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": 1
+  },
+  {
+    "question": "Which word doesn't belong?",
+    "options": ["Happy", "Joyful", "Ecstatic", "Miserable"],
+    "answer": 3
+  },
+  {
+    "question": "Another word for 'happy' is:",
+    "options": ["Sad", "Joyful", "Angry", "Tired"],
+    "answer": 1
+  },
+  {
+    "question": "The opposite of 'big' is:",
+    "options": ["Large", "Huge", "Small", "Tall"],
+    "answer": 2
+  }
+]
