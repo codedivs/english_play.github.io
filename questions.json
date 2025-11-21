@@ -88,5 +88,260 @@
     "question": "The opposite of 'big' is:",
     "options": ["Large", "Huge", "Small", "Tall"],
     "answer": 2
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Recieve", "Receive", "Receeve", "Recieive"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Occasion", "Ocasion", "Occassion", "Ocation"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Separate", "Seperate", "Separrate", "Seperete"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Embarrass", "Embarass", "Embarras", "Embbarrass"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Definite", "Definate", "Definete", "Definit"],
+    "answer": 0
+  },
+  {
+    "question": "'Piece of cake' means:",
+    "options": ["Something delicious", "Very easy", "A real cake", "Difficult"],
+    "answer": 1
+  },
+  {
+    "question": "'Hit the nail on the head' means:",
+    "options": ["Be exactly right", "Make a loud noise", "Get angry", "Miss the point"],
+    "answer": 0
+  },
+  {
+    "question": "'Let the cat out of the bag' means:",
+    "options": ["Free a pet", "Reveal a secret", "Cause trouble", "Be clumsy"],
+    "answer": 1
+  },
+  {
+    "question": "'Bite the bullet' means:",
+    "options": ["Eat quickly", "Accept something painful", "Get angry", "Shoot someone"],
+    "answer": 1
+  },
+  {
+    "question": "'Under the weather' means:",
+    "options": ["Outside in bad weather", "Feeling sick", "Very happy", "Confused"],
+    "answer": 1
+  },
+  {
+    "question": "The plural of 'child' is:",
+    "options": ["Childs", "Childes", "Children", "Childrens"],
+    "answer": 2
+  },
+  {
+    "question": "The past tense of 'teach' is:",
+    "options": ["Teached", "Taught", "Teached", "Teach"],
+    "answer": 1
+  },
+  {
+    "question": "The past tense of 'buy' is:",
+    "options": ["Buyed", "Bought", "Boughted", "Buied"],
+    "answer": 1
+  },
+  {
+    "question": "The comparative form of 'good' is:",
+    "options": ["Gooder", "Best", "Better", "More good"],
+    "answer": 2
+  },
+  {
+    "question": "The superlative form of 'bad' is:",
+    "options": ["Badder", "Worst", "Worse", "Baddest"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Your late", "You're late", "You'r late", "Yore late"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Their going home", "There going home", "They're going home", "Thier going home"],
+    "answer": 2
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Its a sunny day", "It's a sunny day", "Its' a sunny day", "It is a sunny day"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Necessary", "Neccessary", "Necessery", "Nesessary"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Beautiful", "Beautifull", "Beauteful", "Beautyful"],
+    "answer": 0
+  },
+  {
+    "question": "'Kick the bucket' means:",
+    "options": ["Play football", "Die", "Get angry", "Start something"],
+    "answer": 1
+  },
+  {
+    "question": "'Spill the beans' means:",
+    "options": ["Make a mess", "Reveal a secret", "Cook food", "Drop something"],
+    "answer": 1
+  },
+  {
+    "question": "The past participle of 'drink' is:",
+    "options": ["Drinked", "Drunk", "Drank", "Drinken"],
+    "answer": 1
+  },
+  {
+    "question": "The past tense of 'see' is:",
+    "options": ["Seed", "Saw", "Seen", "Seeed"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["A lot", "Alot", "Allot", "A lott"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Tomorrow", "Tommorow", "Tomorow", "Tommorrow"],
+    "answer": 0
+  },
+  {
+    "question": "'Burn the midnight oil' means:",
+    "options": ["Stay up late working", "Cook at night", "Waste energy", "Start a fire"],
+    "answer": 0
+  },
+  {
+    "question": "The plural of 'mouse' (animal) is:",
+    "options": ["Mouses", "Mices", "Mouse", "Mice"],
+    "answer": 3
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Whose book is this?", "Who's book is this?", "Whos book is this?", "Whose's book is this?"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Believe", "Beleive", "Belive", "Beleave"],
+    "answer": 0
+  },
+  {
+    "question": "'Raining cats and dogs' means:",
+    "options": ["Animals falling", "Raining lightly", "Raining heavily", "A zoo escape"],
+    "answer": 2
+  },
+  {
+    "question": "The past tense of 'run' is:",
+    "options": ["Runned", "Run", "Ranned", "Ran"],
+    "answer": 3
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["I could of gone", "I could have gone", "I could of went", "I could went"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["License", "Licence", "Liscense", "Lycense"],
+    "answer": 0
+  },
+  {
+    "question": "'Cost an arm and a leg' means:",
+    "options": ["Very cheap", "Very expensive", "Cause injury", "Be dangerous"],
+    "answer": 1
+  },
+  {
+    "question": "The plural of 'woman' is:",
+    "options": ["Womans", "Women", "Womanses", "Womens"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Fewer sugar", "Less sugar", "Few sugar", "Little sugars"],
+    "answer": 1
+  },
+  {
+    "question": "The past tense of 'swim' is:",
+    "options": ["Swimmed", "Swam", "Swum", "Swimmed"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Harassment", "Harrassment", "Harassement", "Harrasment"],
+    "answer": 0
+  },
+  {
+    "question": "'Once in a blue moon' means:",
+    "options": ["Every night", "Very rarely", "Every month", "On full moon"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Affect the weather", "Effect the weather", "Affect the wether", "Effect the wether"],
+    "answer": 0
+  },
+  {
+    "question": "The comparative of 'little' is:",
+    "options": ["Littler", "Less", "Least", "More little"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Judgment", "Judgement", "Judgemant", "Judgmant"],
+    "answer": 0
+  },
+  {
+    "question": "'Bark up the wrong tree' means:",
+    "options": ["Climb a tree", "Make noise", "Be mistaken", "Annoy someone"],
+    "answer": 2
+  },
+  {
+    "question": "The past tense of 'forget' is:",
+    "options": ["Forgetted", "Forgot", "Forgotten", "Forgets"],
+    "answer": 1
+  },
+  {
+    "question": "Which is correct?",
+    "options": ["Between you and I", "Between you and me", "Betwen you and I", "Between you and myself"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Weird", " Wierd", "Weerd", "Wiered"],
+    "answer": 0
+  },
+  {
+    "question": "'Call it a day' means:",
+    "options": ["Name the day", "Finish work", "Make a phone call", "Cancel plans"],
+    "answer": 1
+  },
+  {
+    "question": "The plural of 'deer' is:",
+    "options": ["Deers", "Deer", "Deeres", "Deeries"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the correct spelling?",
+    "options": ["Conscience", "Concience", "Consceince", "Concsience"],
+    "answer": 0
+  },
+  {
+    "question": "'When pigs fly' means:",
+    "options": ["Never", "Soon", "In the future", "During bad weather"],
+    "answer": 0
   }
 ]
