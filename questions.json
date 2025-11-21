@@ -261,8 +261,8 @@
   },
   {
     "question": "'Cost an arm and a leg' means:",
-    "options": ["Very cheap", "Very expensive", "Cause injury", "Be dangerous"],
-    "answer": 1
+    "options": ["Very cheap", "Cause injury","Very expensive", "Be dangerous"],
+    "answer": 2
   },
   {
     "question": "The plural of 'woman' is:",
@@ -271,12 +271,12 @@
   },
   {
     "question": "Which is correct?",
-    "options": ["Fewer sugar", "Less sugar", "Few sugar", "Little sugars"],
-    "answer": 1
+    "options": ["Fewer sugar", "Few sugar", "Less sugar", "Little sugars"],
+    "answer": 2
   },
   {
     "question": "The past tense of 'swim' is:",
-    "options": ["Swimmed", "Swam", "Swum", "Swimmed"],
+    "options": ["Swimmed", "Swum", "Swimmed","Swam"],
     "answer": 1
   },
   {
@@ -286,8 +286,8 @@
   },
   {
     "question": "'Once in a blue moon' means:",
-    "options": ["Every night", "Very rarely", "Every month", "On full moon"],
-    "answer": 1
+    "options": [ "Very rarely","Every night", "Every month", "On full moon"],
+    "answer": 0
   },
   {
     "question": "Which is correct?",
@@ -296,8 +296,8 @@
   },
   {
     "question": "The comparative of 'little' is:",
-    "options": ["Littler", "Less", "Least", "More little"],
-    "answer": 1
+    "options": ["Littler", "Least", "More little", "Less"],
+    "answer": 3
   },
   {
     "question": "Which is the correct spelling?",
@@ -311,8 +311,8 @@
   },
   {
     "question": "The past tense of 'forget' is:",
-    "options": ["Forgetted", "Forgot", "Forgotten", "Forgets"],
-    "answer": 1
+    "options": ["Forgetted",  "Forgotten", "Forgets", "Forgot"],
+    "answer": 3
   },
   {
     "question": "Which is correct?",
@@ -321,27 +321,27 @@
   },
   {
     "question": "Which is the correct spelling?",
-    "options": ["Weird", " Wierd", "Weerd", "Wiered"],
-    "answer": 0
+    "options": [ " Wierd", "Weerd","Weird", "Wiered"],
+    "answer": 2
   },
   {
     "question": "'Call it a day' means:",
-    "options": ["Name the day", "Finish work", "Make a phone call", "Cancel plans"],
-    "answer": 1
+    "options": ["Name the day",  "Make a phone call","Finish work", "Cancel plans"],
+    "answer": 2
   },
   {
     "question": "The plural of 'deer' is:",
-    "options": ["Deers", "Deer", "Deeres", "Deeries"],
-    "answer": 1
+    "options": [ "Deer", "Deeres", "Deeries","Deers",],
+    "answer": 3
   },
   {
     "question": "Which is the correct spelling?",
-    "options": ["Conscience", "Concience", "Consceince", "Concsience"],
-    "answer": 0
+    "options": [ "Concience", "Consceince","Conscience", "Concsience"],
+    "answer": 2
   },
   {
     "question": "'When pigs fly' means:",
-    "options": ["Never", "Soon", "In the future", "During bad weather"],
-    "answer": 0
+    "options": ["Soon", "In the future", "During bad weather", "Never"],
+    "answer": 3
   }
 ]
